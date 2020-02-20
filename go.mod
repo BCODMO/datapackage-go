@@ -6,3 +6,5 @@ require (
 	github.com/santhosh-tekuri/jsonschema v1.2.4
 	github.com/satori/go.uuid v1.2.0
 )
+
+go 1.13
